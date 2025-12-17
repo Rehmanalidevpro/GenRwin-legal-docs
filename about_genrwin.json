@@ -1,0 +1,56 @@
+{
+  "sections": [
+    {
+      "title": "Our Mission",
+      "content": [
+        "To democratize digital earnings by providing a transparent, secure, and rewarding platform. We believe that your time and attention are valuable assets, and our mission is to ensure you are fairly compensated for them in a fun and engaging way."
+      ]
+    },
+    {
+      "title": "Who We Are",
+      "content": [
+        "GenRwin is not just an app; it's a growing community of digital earners. Born from the idea that 'Everyone Wins', we bridge the gap between global brands and everyday users. We partner with top-tier advertisers to bring you genuine opportunities to earn real rewards."
+      ]
+    },
+    {
+      "title": "Why Choose GenRwin?",
+      "content": [
+        "In a market flooded with empty promises, GenRwin stands out by delivering tangible value. Here is why thousands of users trust us:"
+      ],
+      "icon_list": [
+        {
+          "icon": "money_tick",
+          "title": "Guaranteed Payouts:",
+          "subtitle": "We pride ourselves on a 100% payout record for valid users."
+        },
+        {
+          "icon": "shield_tick",
+          "title": "Data Integrity:",
+          "subtitle": "Your privacy is paramount. We adhere to strict data protection standards."
+        },
+        {
+          "icon": "global",
+          "title": "Global Access:",
+          "subtitle": "Opportunities available for users worldwide, breaking geographical barriers."
+        },
+        {
+          "icon": "headphone",
+          "title": "Dedicated Support:",
+          "subtitle": "Our team is available 24/7 to assist you with any questions or issues."
+        }
+      ]
+    },
+    {
+      "title": "Our Core Values",
+      "content": [
+        "We are built on three pillars: Transparency, Innovation, and Community. We constantly evolve our platform based on user feedback to ensure the best possible experience."
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "content": [
+        "We love hearing from our community. Whether it's a suggestion, a partnership inquiry, or support, reach out to us at support@genrwin.com."
+      ]
+    }
+  ]
+}
