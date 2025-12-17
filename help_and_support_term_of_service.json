@@ -1,0 +1,40 @@
+{
+  "last_updated": "September 20, 2025",
+  "intro": [
+    "Welcome to our platform. These terms and conditions outline the rules and regulations for the use of our website and services.",
+    "By accessing this website we assume you accept these terms and conditions. Do not continue to use this platform if you do not agree to take all of the terms and conditions stated on this page."
+  ],
+  "sections": [
+    {
+      "title": "1. Accounts",
+      "content": [
+        "When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.",
+        "You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password."
+      ]
+    },
+    {
+      "title": "2. User Conduct",
+      "content": [
+        "You agree not to use the Service for any purpose that is illegal or prohibited by these Terms. You agree not to:"
+      ],
+      "bullets": [
+        "Use any automated system, including without limitation \"robots,\" \"spiders,\" etc., to access the Service.",
+        "Attempt to interfere with, compromise the system integrity or security.",
+        "Submit false or misleading information."
+      ]
+    },
+    {
+      "title": "3. Termination",
+      "content": [
+        "We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.",
+        "Upon termination, your right to use the Service will immediately cease."
+      ]
+    },
+    {
+      "title": "4. Changes to Terms",
+      "content": [
+        "We reserve the right, at our sole discretion, to modify or replace these Terms at any time. We will try to provide at least 30 days' notice prior to any new terms taking effect."
+      ]
+    }
+  ]
+}
