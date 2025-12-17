@@ -1,41 +1,39 @@
 {
-  "last_updated": "September 20, 2025",
-  "intro": [
-    "Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website."
-  ],
+  "last_updated": "September 24, 2025",
   "sections": [
     {
-      "title": "1. Information We Collect",
+      "title": "Our Promise to You",
       "content": [
-        "We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.",
-        "###Log Data:",
-        "Like most site operators, we collect information that your browser sends whenever you visit our site. This may include your computer's IP address, browser type, and other statistics.",
-        "###Personal Information:",
-        "We may ask you to provide us with certain personally identifiable information that can be used to contact or identify you, such as your name and email address."
+        "Your trust is our most important asset. This policy explains what information we collect, why we need it, and how we protect it. We keep things simple and clear, so you always know what's happening with your data."
       ]
     },
     {
-      "title": "2. How We Use Your Information",
+      "title": "Information We Collect",
       "content": [
-        "We use the information we collect in various ways, including to:"
+        "To make your GenRwin experience seamless, we collect a few necessary details:"
       ],
-      "bullets": [
-        "Provide, operate, and maintain our website",
-        "Improve, personalize, and expand our website",
-        "Understand and analyze how you use our website",
-        "Communicate with you, either directly or through one of our partners, for customer service, to provide you with updates and other information relating to the website."
+      "list_items": [
+        {
+          "icon": "user",
+          "title": "Your Profile:",
+          "subtitle": "Name and email to create and secure your account."
+        },
+        {
+          "icon": "wallet",
+          "title": "Reward Payouts:",
+          "subtitle": "Payment details so we can send you the rewards you've earned."
+        },
+        {
+          "icon": "activity",
+          "title": "App Activity:",
+          "subtitle": "Info on tasks completed. This helps us fix bugs and make the app even better."
+        }
       ]
     },
     {
-      "title": "3. Data Security",
+      "title": "Your Data is Never for Sale",
       "content": [
-        "We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification."
-      ]
-    },
-    {
-      "title": "4. Cookies",
-      "content": [
-        "We use cookies to help improve your experience of our website. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified."
+        "Let's be clear: we **never sell** your personal information. We only share it with trusted partners, like payment processors, who are legally bound to keep your data safe while helping us deliver your rewards."
       ]
     }
   ]
