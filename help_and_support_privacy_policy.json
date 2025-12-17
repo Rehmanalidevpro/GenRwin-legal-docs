@@ -8,32 +8,70 @@
       ]
     },
     {
-      "title": "Information We Collect",
+      "title": "1. Information We Collect",
       "content": [
-        "To make your GenRwin experience seamless, we collect a few necessary details:"
+        "To provide a seamless experience and process your rewards, we collect the following types of data:"
       ],
-      "list_items": [
+      "icon_list": [
         {
           "icon": "user",
-          "title": "Your Profile:",
-          "subtitle": "Name and email to create and secure your account."
+          "title": "Account Profile:",
+          "subtitle": "We collect your name and email address to create your secure account and prevent fraud."
         },
         {
           "icon": "wallet",
-          "title": "Reward Payouts:",
-          "subtitle": "Payment details so we can send you the rewards you've earned."
+          "title": "Payment Details:",
+          "subtitle": "To process your withdrawals (PayPal, Gift Cards), we need payment information. This is strictly for payouts."
+        },
+        {
+          "icon": "mobile",
+          "title": "Device & Log Data:",
+          "subtitle": "We collect IP address, device model, and OS version to prevent multiple accounts and ensure app security."
         },
         {
           "icon": "activity",
-          "title": "App Activity:",
-          "subtitle": "Info on tasks completed. This helps us fix bugs and make the app even better."
+          "title": "App Usage:",
+          "subtitle": "Data about which tasks or surveys you complete helps us credit your points accurately."
         }
       ]
     },
     {
-      "title": "Your Data is Never for Sale",
+      "title": "2. How We Use Your Information",
       "content": [
-        "Let's be clear: we **never sell** your personal information. We only share it with trusted partners, like payment processors, who are legally bound to keep your data safe while helping us deliver your rewards."
+        "We use the collected data for specific purposes to improve your experience:"
+      ],
+      "bullet_list": [
+        "To provide, operate, and maintain our application.",
+        "To improve, personalize, and expand our reward options.",
+        "To process your transactions and send you related information.",
+        "To detect and prevent fraudulent activity and spam.",
+        "To communicate with you regarding updates, security alerts, and support."
+      ]
+    },
+    {
+      "title": "3. iOS & Third-Party Tracking",
+      "content": [
+        "For iOS users, we adhere to Apple's App Tracking Transparency framework. We only track your activity across other companies' apps and websites for advertising purposes if you give us explicit permission.",
+        "We use third-party services (like AdMob or Survey Providers) that may collect information used to identify you."
+      ]
+    },
+    {
+      "title": "4. Data Security & Retention",
+      "content": [
+        "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. We retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy."
+      ]
+    },
+    {
+      "title": "5. Your Rights & Account Deletion",
+      "content": [
+        "You have the right to access, update, or delete the information we have on you. If you wish to delete your account and all associated data, you can do so from the 'Settings' menu within the app or by contacting our support team."
+      ],
+      "icon_list": [
+        {
+          "icon": "trash",
+          "title": "Delete Account:",
+          "subtitle": "This action is permanent and will remove all your points and history."
+        }
       ]
     }
   ]
