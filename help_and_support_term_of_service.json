@@ -1,39 +1,76 @@
 {
-  "last_updated": "September 20, 2025",
-  "intro": [
-    "Welcome to our platform. These terms and conditions outline the rules and regulations for the use of our website and services.",
-    "By accessing this website we assume you accept these terms and conditions. Do not continue to use this platform if you do not agree to take all of the terms and conditions stated on this page."
-  ],
+  "last_updated": "September 24, 2025",
   "sections": [
     {
-      "title": "1. Accounts",
+      "title": "Your Agreement with Us",
       "content": [
-        "When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.",
-        "You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password."
+        "Welcome to GenRwin! By creating an account, you agree to follow these rules. These terms ensure a fair, safe, and fun environment for everyone in our community. If you do not agree, please do not use our services."
       ]
     },
     {
-      "title": "2. User Conduct",
+      "title": "1. Account Rules & Responsibilities",
       "content": [
-        "You agree not to use the Service for any purpose that is illegal or prohibited by these Terms. You agree not to:"
+        "To maintain a healthy community and ensure you get paid, you must follow these account guidelines:"
       ],
-      "bullets": [
-        "Use any automated system, including without limitation \"robots,\" \"spiders,\" etc., to access the Service.",
-        "Attempt to interfere with, compromise the system integrity or security.",
-        "Submit false or misleading information."
+      "icon_list": [
+        {
+          "icon": "user_tick",
+          "title": "Be Accurate:",
+          "subtitle": "Provide true and complete information during signup. Fake details may block your payments."
+        },
+        {
+          "icon": "key",
+          "title": "Be Secure:",
+          "subtitle": "Keep your password and account details confidential. You are responsible for all activity on your account."
+        },
+        {
+          "icon": "profile_add",
+          "title": "One Account Policy:",
+          "subtitle": "You may only create ONE account. Creating multiple accounts will result in an immediate ban."
+        }
       ]
     },
     {
-      "title": "3. Termination",
+      "title": "2. Earning Rewards & Payments",
       "content": [
-        "We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.",
-        "Upon termination, your right to use the Service will immediately cease."
+        "Points and rewards are subject to the following terms:"
+      ],
+      "icon_list": [
+        {
+          "icon": "coin",
+          "title": "Earning Points:",
+          "subtitle": "Points are awarded only for successfully completed tasks as verified by our partners."
+        },
+        {
+          "icon": "wallet",
+          "title": "Withdrawals:",
+          "subtitle": "Payouts are processed within 24-72 hours. We reserve the right to hold payments for security checks."
+        }
       ]
     },
     {
-      "title": "4. Changes to Terms",
+      "title": "3. Prohibited Activities (Strict)",
       "content": [
-        "We reserve the right, at our sole discretion, to modify or replace these Terms at any time. We will try to provide at least 30 days' notice prior to any new terms taking effect."
+        "GenRwin is a platform for real effort. The following actions are strictly prohibited and will lead to a **Permanent Ban**:"
+      ],
+      "bullet_list": [
+        "Using VPNs, Proxies, or Emulators to fake your location or device.",
+        "Using auto-clickers, scripts, or bots to complete tasks.",
+        "Creating multiple accounts on the same device or network.",
+        "Spamming our support team or using abusive language.",
+        "Attempting to exploit bugs or glitches in the system."
+      ]
+    },
+    {
+      "title": "4. Limitation of Liability",
+      "content": [
+        "GenRwin is not responsible for any damages or losses related to your use of the app. We do not guarantee that the app will always be error-free or that specific tasks will always be available."
+      ]
+    },
+    {
+      "title": "5. Account Termination",
+      "content": [
+        "We reserve the right to suspend or terminate your account at any time, without notice, if we suspect you have violated these Terms. In such cases, all accumulated points will be forfeited."
       ]
     }
   ]
